@@ -1,24 +1,88 @@
-# Hi there, I'm Devansh Mishra 👋
+<div align="center">
 
-**AI Automation Engineer & Frontend Developer | BCA @ SRMU**
+# Devansh Mishra
+### AI Engineer & Full-Stack Developer
 
-I am a high-velocity developer focused on building autonomous AI systems and high-performance, cinematic web interfaces. Currently on a 90-day sprint to build 100 real-world projects.
+*Building intelligent systems at the intersection of ML and modern web*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-mishra-5986a6321)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshathostel01@gmail.com)
+
+</div>
 
 ---
 
+## 👨‍💻 About Me
 
-### 🛠 Tech Stack
-- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+), HTML5/CSS3
-- **Backend & AI:** Python, Node.js, AI Agent Architecture (Project Jarvis)
-- **Tools:** Git/GitHub, VS Code, Docker, Linux
+I'm a BCA student at SRMU, on a **90-day sprint** to build 100 real-world AI and web projects. I focus on turning ML models into usable, production-ready applications — not just notebooks.
 
-### 📊 Professional Focus
-- **AI Automation:** Designing multi-functional agents and autonomous workflows.
-- **Frontend Mastery:** Developing "Atelier-style" luxury UI and high-performance dashboards.
-- **Finance Tech:** Building tools for stock market analysis and bond yield tracking.
+- 🔭 Currently building **SentimentLens** — a real-time NLP sentiment dashboard
+- 🤖 Exploring **AI Agents, RAG pipelines**, and autonomous systems (Project Jarvis)
+- 📈 Interested in **Finance Tech** — stock analysis and market intelligence tools
+- 🚀 Goal: Ship production-quality AI apps and document everything publicly
 
-### 📫 Connect with me
-- 📧 [devanshathostel01@gmail.com](mailto:devanshathostel01@gmail.com)
-- 💼 [LinkedIn](linkedin.com/in/devansh-mishra-5986a6321)
+---
+
+## 🧠 AI / ML Projects
+
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [**SentimentLens**](https://github.com/DevanshMishra31/sentiment-dashboard) | Real-time sentiment analysis dashboard with DistilBERT | Python · FastAPI · React · Docker | ✅ Live |
+| **House Price Predictor** | XGBoost regression with SHAP explainability | Python · XGBoost · FastAPI · React | 🔨 Building |
+| **Spam Classifier** | NLP text classification with TF-IDF + Logistic Regression | Python · scikit-learn · Flask | 📅 Planned |
+| **Project Jarvis** | Multi-agent AI automation system | Python · LangChain · React | 🔨 Building |
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-orange?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshMishra31&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshMishra31&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## 📝 Currently Learning
+
+- 🧩 **LangChain & RAG** — building document-aware AI chatbots
+- 🔬 **Fine-tuning LLMs** — adapting open-source models for specific tasks
+- 📊 **MLOps basics** — model versioning, experiment tracking with MLflow
+
+---
+
+<div align="center">
 
 *"Precision in code, excellence in execution."*
+
+⭐ Star a repo if something helps you — it keeps me going!
+
+</div>
