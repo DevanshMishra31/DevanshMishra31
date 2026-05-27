@@ -59,17 +59,7 @@ I'm a BCA student at SRMU, on a **90-day sprint** to build 100 real-world AI and
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevanshMishra31&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshMishra31&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
 
 ## 📝 Currently Learning
 
