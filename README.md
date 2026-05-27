@@ -21,18 +21,6 @@ I'm a BCA student at SRMU, on a **90-day sprint** to build 100 real-world AI and
 - 📈 Interested in **Finance Tech** — stock analysis and market intelligence tools
 - 🚀 Goal: Ship production-quality AI apps and document everything publicly
 
----
-
-## 🧠 AI / ML Projects
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [**SentimentLens**](https://github.com/DevanshMishra31/sentiment-dashboard) | Real-time sentiment analysis dashboard with DistilBERT | Python · FastAPI · React · Docker | ✅ Live |
-| **House Price Predictor** | XGBoost regression with SHAP explainability | Python · XGBoost · FastAPI · React | 🔨 Building |
-| **Spam Classifier** | NLP text classification with TF-IDF + Logistic Regression | Python · scikit-learn · Flask | 📅 Planned |
-| **Project Jarvis** | Multi-agent AI automation system | Python · LangChain · React | 🔨 Building |
-
----
 
 ## 🛠️ Tech Stack
 
